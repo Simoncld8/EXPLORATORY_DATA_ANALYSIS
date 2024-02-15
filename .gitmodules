@@ -1,0 +1,6 @@
+[submodule "BIG_DATA_STEAM-S"]
+	path = BIG_DATA_STEAM-S
+	url = https://github.com/Simoncld8/BIG_DATA_STEAM-S.git
+[submodule "EDA_PROJET_SP"]
+	path = EDA_PROJET_SP
+	url = https://github.com/Simoncld8/EDA_PROJET_SP.git
